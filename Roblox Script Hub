@@ -1,6 +1,6 @@
 local encoded = [[
 CmxvY2FsIFJheWZpZWxkID0gbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoJ2h0dHBzOi8vc2lyaXVzLm1lbnUvcmF5ZmllbGQnKSkoKQpwcmludCgiTG9hZGVkISIpCg==
-]] -- << Vollständiger Base64 hier einfügen
+]] -- <<
 
 -- Base64 Decoder
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
